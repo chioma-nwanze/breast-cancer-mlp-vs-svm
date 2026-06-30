@@ -38,7 +38,7 @@ Open:
 Run all cells in each notebook.
 
 These notebooks:
-- Load the saved model weights from Submission_Files/
+- Load the saved model weights from Output_Files/
 - Apply the correct scaler
 - Evaluate performance on the test set
 Output:
@@ -54,4 +54,4 @@ These notebooks:
 - Perform preprocessing and standardisation
 - Run cross-validation and hyperparameter tuning
 - Train the final models
-- Save outputs to Submission_Files/
+- Save outputs to Output_Files/
